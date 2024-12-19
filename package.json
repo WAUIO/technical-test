@@ -18,7 +18,7 @@
     "clsx": "^1.2.1",
     "gray-matter": "^4.0.3",
     "markdown-to-jsx": "^7.1.8",
-    "next": "13.1.2",
+    "next": "14.2.15",
     "next-intercom": "^0.1.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
